@@ -28,10 +28,7 @@
 |29 DEGREES|33 DEGREES|
 |![29](https://user-images.githubusercontent.com/80662569/116462509-233a3280-a887-11eb-9b8f-c925bc36cdcd.PNG)|![33](https://user-images.githubusercontent.com/80662569/116462511-233a3280-a887-11eb-91a9-a11098dc7529.PNG)|
 
-### CI and Code Quality
 
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
 
 
 [![cppcheck-action](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml/badge.svg)](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml)
