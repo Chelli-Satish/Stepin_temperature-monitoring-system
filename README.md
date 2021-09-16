@@ -44,3 +44,7 @@
 
 
 [![Valgrind](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/valgrind1.yml/badge.svg)](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/valgrind1.yml)
+
+[![CI](https://www.code-inspector.com/project/28768/score/svg)](https://www.code-inspector.com/project/28768/score/svg)
+
+[![CI](https://www.code-inspector.com/project/28768/status/svg)](https://www.code-inspector.com/project/28768/status/svg)
