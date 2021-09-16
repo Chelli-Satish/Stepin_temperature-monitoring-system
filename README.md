@@ -34,3 +34,6 @@
 |:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/Compile.yml/badge.svg)](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/KaaviyaP/EmbeddedC_255944/actions/workflows/CodeQulaity.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e266b3e9afb5440aa83ddbeb4ac95dbe)](https://www.codacy.com/gh/KaaviyaP/EmbeddedC_255944/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KaaviyaP/EmbeddedC_255944&amp;utm_campaign=Badge_Grade)|
 
+
+[![cppcheck-action](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml/badge.svg)](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml)
+
