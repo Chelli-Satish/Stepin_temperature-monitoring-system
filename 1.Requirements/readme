@@ -15,3 +15,10 @@ Weakness - Hard to keep it, you cant make any alternation.
 Opportunities - It can be implemented by replacing heater by air conditioners and any other devices.
 
 Threats - Not suitable for High temperature environment.
+TOOLS:
+1.Micro controller(ATMEGA-328)
+2.Potentiometer
+3.Seat  Heater
+4.Button  Sensor
+5.Temperature Sensor  Switch
+6.LCD Display
