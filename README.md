@@ -36,3 +36,9 @@
 
 [![cppcheck-action](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml/badge.svg)](https://github.com/Chelli-Satish/Stepin_temperature-monitoring-system/actions/workflows/c-cppp.yml)
 
+
+
+
+
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1a86f46b62b34a1ca1a1d4ff818f3575)](https://www.codacy.com/gh/Chelli-Satish/Stepin_temperature-monitoring-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Chelli-Satish/Stepin_temperature-monitoring-system&amp;utm_campaign=Badge_Grade)
